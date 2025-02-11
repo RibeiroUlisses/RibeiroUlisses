@@ -19,11 +19,10 @@ Tenho uma paixão por aprender novas tecnologias e sempre busco me aprimorar em 
 - Desenvolvimento de aplicações web, do frontend ao backend.
 - Criação de interfaces responsivas e intuitivas com **React** e **Figma**.
 - Desenvolvimento de APIs robustas utilizando **Node.js**, **Express** e **Python**.
-- Busco sempre boas práticas de programação, como código limpo, testes automatizados e versionamento adequado com Git.
+- Busco sempre boas práticas de programação, como código limpo, testes automatizados e versionamento adequado com Git. 
 
-### 🌱 Atualmente estudando
 
-- Faculdade Senac Recife 
+### Faculdade Senac Recife 
 
 
 ### 📫 Como me encontrar
